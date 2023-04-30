@@ -45,13 +45,24 @@ function _convertCreatedAtToTimestampInMsec({ createdAt, ...rest }: Data) {
 // 	}
 // }
 
+/* eslint max-lines-per-function: ["error", { "max": 24, "skipBlankLines": true, "skipComments": true }] */
 function _getPostsFilteredByTagKeywordAndSorted(tag: string, keyword: string) {
+	const [keyword_, score_, scoreToggle] = keyword.split(':')
+	const isScoreKeyword = keyword_ === 'score'
+
 	return (
 		posts.data
 			?.filter(
-				({ title, text, tag: postTag }) =>
+				({ score, title, text, tag: postTag }) =>
 					(!tag || postTag === tag) &&
-					(!keyword || `${title}${text}`.toLowerCase().includes(keyword)),
+					(!keyword ||
+						(isScoreKeyword
+							? {
+									asc: () => +score >= +score_,
+									desc: () => +score <= +score_,
+									equal: () => +score === +score_,
+							  }[scoreToggle as 'asc' | 'desc' | 'equal']()
+							: `${title}${text}`.toLowerCase().includes(keyword))),
 			)
 			.map((post) => _convertCreatedAtToTimestampInMsec(post)) // TODO: Revisit: _normalizePost(post))
 			// Sort by `tag` alphabetically, then `createdAt` latest first, & lastly `score` 10 to 0

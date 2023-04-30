@@ -59,16 +59,22 @@ function PostBody({ url, text, title }: { url?: string; text?: string; title: st
 	)
 }
 
-function PostScore({ value }: { value: number }) {
+function PostScore({ value, onClick }: { value: number; onClick: (score: number) => void }) {
 	return (
-		<div className="mb-1 mt-4 text-sm text-indigo-600 dark:text-indigo-300">
-			{value ? `Score: ${value * 10}` : <Skeleton className="h-4 w-14" />}
-		</div>
+		<a
+			onClick={() => onClick(value)}
+			className="mb-1 mt-4 cursor-pointer text-sm text-indigo-600 hover:underline dark:text-indigo-300"
+			tabIndex={0}
+		>
+			{value >= 0 ? `Score: ${value * 10}` : <Skeleton className="h-4 w-14" />}
+		</a>
 	)
 }
 
-export default function Post(props: Data) {
-	const { title, text, url, icon, relativeTime, score } = props
+type PostProps = Data & { onScoreClick: (score: number) => void }
+
+export default function Post(props: PostProps) {
+	const { title, text, url, icon, relativeTime, score, onScoreClick } = props
 	return (
 		<PostBorder>
 			<PostIcon src={icon} />
@@ -80,7 +86,7 @@ export default function Post(props: Data) {
 
 			<PostBody url={url} text={text} title={title} />
 
-			<PostScore value={score} />
+			<PostScore value={score} onClick={(value) => onScoreClick(value)} />
 		</PostBorder>
 	)
 }

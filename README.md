@@ -1,4 +1,4 @@
-# Next SWR Demo _(next-swr-demo)_
+# Next SWR Demo _(next-swr-demo)_ _(WITH EXPERIMENTAL SCORE FILTER)_
 
 This project demonstrates a basic SWR (Stale While Revalidate) feature able to support heavy load
 

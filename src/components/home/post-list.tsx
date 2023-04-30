@@ -12,17 +12,44 @@ import SearchBar from '@/components/common/search-bar'
 import type { Data } from '@/hooks/use-posts'
 import Post from './post'
 
-function PostListSection({ posts }: { posts: Data[] }) {
+function PostListSection({
+	posts,
+	onScoreClick,
+}: {
+	posts: Data[]
+	onScoreClick: (score: number) => void
+}) {
 	return (
 		<Section cols={3}>
 			{posts.map((post: Data, postIndex: number) => (
-				<Post key={`${postIndex}${post.title}`} {...post} />
+				<Post key={`${postIndex}${post.title}`} {...post} onScoreClick={onScoreClick} />
 			))}
 		</Section>
 	)
 }
 
-/* eslint max-lines-per-function: ["error", { "max": 37, "skipBlankLines": true, "skipComments": true }] */
+function _getNextScoreSearchToggle(searchToggle: string) {
+	const [keyword, _, toggle] = searchToggle.split(':')
+
+	if (keyword !== 'score') return 'equal'
+
+	switch (toggle) {
+		case 'asc': {
+			return 'desc'
+		}
+		case 'desc': {
+			return 'equal'
+		}
+		case 'equal': {
+			return 'asc'
+		}
+		default: {
+			return 'equal'
+		}
+	}
+}
+
+/* eslint max-lines-per-function: ["error", { "max": 47, "skipBlankLines": true, "skipComments": true }] */
 export default function PostList({ tags }: { tags: string[] }) {
 	const [searchKeyword, setSearchKeyword] = useState('')
 	const [postsTagIndex, setPostsTagIndex] = useState(0)
@@ -63,7 +90,17 @@ export default function PostList({ tags }: { tags: string[] }) {
 					}
 				/>
 			</Section>
-			<PostListSection posts={isLoadingPosts || !posts ? [{}] : posts} />
+			<PostListSection
+				posts={isLoadingPosts || !posts ? [{}] : posts}
+				onScoreClick={(score) =>
+					setSearchKeyword(`score:${score}:${_getNextScoreSearchToggle(searchKeyword)}`)
+				}
+			/>
+			{searchKeyword.indexOf('score:') === 0 && (
+				<div className="mx-2 text-indigo-600 dark:text-indigo-300 xl:mx-10 2xl:mx-40">
+					Filter: {searchKeyword}
+				</div>
+			)}
 		</>
 	)
 }
