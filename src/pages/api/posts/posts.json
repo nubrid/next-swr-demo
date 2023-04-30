@@ -1,0 +1,404 @@
+{
+	"data": [
+		{
+			"title": "CS:GO - How To Get Better at Aiming",
+			"icon": "https://i.ytimg.com/vi/3qe_y1_dO_Q/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCz7_Gcg8uL7VUvF6u1yVFfzm5x2Q",
+			"url": "https://www.youtube.com/watch?v=3qe_y1_dO_Q",
+			"createdAt": "2020-09-09T14:00:00.000Z",
+			"tag": "youtube",
+			"score": 0.9
+		},
+		{
+			"title": "CS:GO - How To Get Better at Movement",
+			"icon": "https://i.ytimg.com/vi/v2gWf7VFf1Y/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLC6PvU6TnUfYF_4q3qVZvxAJE0h0g",
+			"url": "https://www.youtube.com/watch?v=v2gWf7VFf1Y",
+			"createdAt": "2020-09-08T14:00:00.000Z",
+			"tag": "youtube",
+			"score": 0.8
+		},
+		{
+			"title": "CS:GO - How to Use Grenades",
+			"icon": "https://i.ytimg.com/vi/5f5g_F_KjvU/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBjU6aFh6Yq3q4KjT6zEj8n_R6JXQ",
+			"url": "https://www.youtube.com/watch?v=5f5g_F_KjvU",
+			"createdAt": "2020-09-07T14:00:00.000Z",
+			"tag": "youtube",
+			"score": 0.7
+		},
+		{
+			"title": "CS:GO - Best Settings To Improve Your Aim",
+			"icon": "https://i.ytimg.com/vi/y2Q-u_D8bvM/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBjT6J1Y_jRlh-QhVXd-X1Fjz1_Kg",
+			"url": "https://www.youtube.com/watch?v=y2Q-u_D8bvM",
+			"createdAt": "2020-09-06T14:00:00.000Z",
+			"tag": "youtube",
+			"score": 0.6
+		},
+		{
+			"title": "CS:GO - Best Crosshair Settings",
+			"icon": "https://i.ytimg.com/vi/0nU6e4U3qXU/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAAYfYKpG0Bq3x4KMd9V_sU8TgR6Q",
+			"url": "https://www.youtube.com/watch?v=0nU6e4U3qXU",
+			"createdAt": "2020-09-05T14:00:00.000Z",
+			"tag": "youtube",
+			"score": 0.5
+		},
+		{
+			"title": "CS:GO - How To Get Better at Spray Control",
+			"icon": "https://i.ytimg.com/vi/xG2L-zXhj_I/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLD8u-7VxvnHmz7VQP8oJf_VmvFpHg",
+			"url": "https://www.youtube.com/watch?v=xG2L-zXhj_I",
+			"createdAt": "2020-09-04T14:00:00.000Z",
+			"tag": "youtube",
+			"score": 0.4
+		},
+		{
+			"title": "CS:GO - How To Get Better at Peeking",
+			"icon": "https://i.ytimg.com/vi/G2Kj9z7J0v8/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBf6zsU6I9UQTvT8TJUf1mUllmDUQ",
+			"url": "https://www.youtube.com/watch?v=G2Kj9z7J0v8",
+			"createdAt": "2020-09-03T14:00:00.000Z",
+			"tag": "youtube",
+			"score": 0.3
+		},
+		{
+			"title": "CS:GO - How To Get Better at Recoil Control",
+			"icon": "https://i.ytimg.com/vi/eK1N-iKjfYQ/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLC9GzvT6S_T8R-hKjD_F-vZV7GZ8Q",
+			"url": "https://www.youtube.com/watch?v=eK1N-iKjfYQ",
+			"createdAt": "2020-09-02T14:00:00.000Z",
+			"tag": "youtube",
+			"score": 0.2
+		},
+		{
+			"title": "CS:GO - Best Maps To Practice Aim",
+			"icon": "https://i.ytimg.com/vi/yJ3f_GmYO_A/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBjNbQN_Kv_yN_1yhXeVjX1XG_xhQ",
+			"url": "https://www.youtube.com/watch?v=yJ3f_GmYO_A",
+			"createdAt": "2020-09-01T14:00:00.000Z",
+			"tag": "youtube",
+			"score": 0.1
+		},
+		{
+			"title": "CS:GO - Best Aim Training Maps",
+			"icon": "https://i.ytimg.com/vi/gPvjK_H8_P4/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDfYjK3vHJ3hqf5e5jtXf-Gx5V5Fg",
+			"url": "https://www.youtube.com/watch?v=gPvjK_H8_P4",
+			"createdAt": "2020-08-31T14:00:00.000Z",
+			"tag": "youtube",
+			"score": 0.9
+		},
+		{
+			"title": "CS:GO - Best Deathmatch Maps",
+			"icon": "https://i.ytimg.com/vi/UvhgWJ7sU4E/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDU6_yRmTKQV7Xmz9PQV7vZ8_hWYw",
+			"url": "https://www.youtube.com/watch?v=UvhgWJ7sU4E",
+			"createdAt": "2020-08-30T14:00:00.000Z",
+			"tag": "youtube",
+			"score": 0.8
+		},
+		{
+			"title": "CS:GO - Best Maps for Competitive Play",
+			"icon": "https://i.ytimg.com/vi/y0z_XuV7X_8/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDX5y7vfh1X9Kjf9QPz2RZnxKJNkA",
+			"url": "https://www.youtube.com/watch?v=y0z_XuV7X_8",
+			"createdAt": "2020-08-29T14:00:00.000Z",
+			"tag": "youtube",
+			"score": 0.7
+		},
+		{
+			"title": "CS:GO - Best Maps for Deathmatch",
+			"icon": "https://i.ytimg.com/vi/6U9P6UH4J-4/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLB7VUJ_6Uf-s-q4FjxL0hM1yT_cVQ",
+			"url": "https://www.youtube.com/watch?v=6U9P6UH4J-4",
+			"createdAt": "2020-08-28T14:00:00.000Z",
+			"tag": "youtube",
+			"score": 0.6
+		},
+		{
+			"title": "CS:GO - Best Maps for Aim Training",
+			"icon": "https://i.ytimg.com/vi/eK_aF2Q0hVQ/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLC2QhgV7GmKFvZV7YyhLpfY7jK8Gg",
+			"url": "https://www.youtube.com/watch?v=eK_aF2Q0hVQ",
+			"createdAt": "2020-08-27T14:00:00.000Z",
+			"tag": "youtube",
+			"score": 0.5
+		},
+		{
+			"title": "CS:GO - Best Maps for Movement Training",
+			"icon": "https://i.ytimg.com/vi/yBKVyvU-iXA/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLD_Ean8-kKj2yHd9XzV5G5f5F5VtQ",
+			"url": "https://www.youtube.com/watch?v=yBKVyvU-iXA",
+			"createdAt": "2020-08-26T14:00:00.000Z",
+			"tag": "youtube",
+			"score": 0.4
+		},
+		{
+			"title": "CS:GO - Best Maps for Grenade Training",
+			"icon": "https://i.ytimg.com/vi/UvhgWJ7sU4E/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDU6_yRmTKQV7Xmz9PQV7vZ8_hWYw",
+			"url": "https://www.youtube.com/watch?v=UvhgWJ7sU4E",
+			"createdAt": "2020-08-25T14:00:00.000Z",
+			"tag": "youtube",
+			"score": 0.3
+		},
+		{
+			"title": "CS:GO - Best Maps for Recoil Control Training",
+			"icon": "https://i.ytimg.com/vi/X_1gVmG_8FQ/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLD_zmQPX9RXmKi1XF8mK_S7_T6c1A",
+			"url": "https://www.youtube.com/watch?v=X_1gVmG_8FQ",
+			"createdAt": "2020-08-24T14:00:00.000Z",
+			"tag": "youtube",
+			"score": 0.2
+		},
+		{
+			"title": "CS:GO - Best Maps for Peeking Training",
+			"icon": "https://i.ytimg.com/vi/6U9P6UH4J-4/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLB7VUJ_6Uf-s-q4FjxL0hM1yT_cVQ",
+			"url": "https://www.youtube.com/watch?v=6U9P6UH4J-4",
+			"createdAt": "2020-08-23T14:00:00.000Z",
+			"tag": "youtube",
+			"score": 0.1
+		},
+		{
+			"title": "CS:GO - Best Maps for Spray Control Training",
+			"icon": "https://i.ytimg.com/vi/xG2L-zXhj_I/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLD8u-7VxvnHmz7VQP8oJf_VmvFpHg",
+			"url": "https://www.youtube.com/watch?v=xG2L-zXhj_I",
+			"createdAt": "2020-08-22T14:00:00.000Z",
+			"tag": "youtube",
+			"score": 0.9
+		},
+		{
+			"title": "CS:GO - Best Maps for Competitive Teamplay",
+			"icon": "https://i.ytimg.com/vi/y0z_XuV7X_8/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDX5y7vfh1X9Kjf9QPz2RZnxKJNkA",
+			"url": "https://www.youtube.com/watch?v=y0z_XuV7X_8",
+			"createdAt": "2020-08-21T14:00:00.000Z",
+			"tag": "youtube",
+			"score": 0.8
+		},
+		{
+			"title": "CS:GO - How To Get Better At Aiming - Aim Tutorial",
+			"url": "https://www.youtube.com/watch?v=_RKFm6YVU6I",
+			"icon": "https://i.ytimg.com/vi/_RKFm6YVU6I/hqdefault.jpg",
+			"createdAt": "2020-07-13T12:00:00.000Z",
+			"tag": "youtube",
+			"score": 0.9
+		},
+		{
+			"title": "CS:GO - How To Improve Your Movement - Movement Tutorial",
+			"url": "https://www.youtube.com/watch?v=tV5fjKm-Bm8",
+			"icon": "https://i.ytimg.com/vi/tV5fjKm-Bm8/hqdefault.jpg",
+			"createdAt": "2020-07-13T12:00:00.000Z",
+			"tag": "youtube",
+			"score": 0.8
+		},
+		{
+			"title": "CS:GO - How To Use The Radar Effectively - Radar Tutorial",
+			"url": "https://www.youtube.com/watch?v=3q-hf_J_l-o",
+			"icon": "https://i.ytimg.com/vi/3q-hf_J_l-o/hqdefault.jpg",
+			"createdAt": "2020-07-14T12:00:00.000Z",
+			"tag": "youtube",
+			"score": 0.7
+		},
+		{
+			"title": "CS:GO - How To Play On Dust 2 - Dust 2 Tutorial",
+			"url": "https://www.youtube.com/watch?v=I8F_Fn6YjK0",
+			"icon": "https://i.ytimg.com/vi/I8F_Fn6YjK0/hqdefault.jpg",
+			"createdAt": "2020-07-14T12:00:00.000Z",
+			"tag": "youtube",
+			"score": 0.6
+		},
+		{
+			"title": "CS:GO - How To Play On Inferno - Inferno Tutorial",
+			"url": "https://www.youtube.com/watch?v=W5V8c_jyGKg",
+			"icon": "https://i.ytimg.com/vi/W5V8c_jyGKg/hqdefault.jpg",
+			"createdAt": "2020-07-15T12:00:00.000Z",
+			"tag": "youtube",
+			"score": 0.5
+		},
+		{
+			"title": "CS:GO - How To Play On Nuke - Nuke Tutorial",
+			"url": "https://www.youtube.com/watch?v=fVv_2yL1jH0",
+			"icon": "https://i.ytimg.com/vi/fVv_2yL1jH0/hqdefault.jpg",
+			"createdAt": "2020-07-15T12:00:00.000Z",
+			"tag": "youtube",
+			"score": 0.4
+		},
+		{
+			"title": "CS:GO - How To Play On Train - Train Tutorial",
+			"url": "https://www.youtube.com/watch?v=2Q_MvDVh6Hs",
+			"icon": "https://i.ytimg.com/vi/2Q_MvDVh6Hs/hqdefault.jpg",
+			"createdAt": "2020-07-16T12:00:00.000Z",
+			"tag": "youtube",
+			"score": 0.3
+		},
+		{
+			"title": "CS:GO - How To Play With Friends - Friends Tutorial",
+			"url": "https://www.youtube.com/watch?v=hbzSv_TJ0-U",
+			"icon": "https://i.ytimg.com/vi/hbzSv_TJ0-U/hqdefault.jpg",
+			"createdAt": "2020-07-16T12:00:00.000Z",
+			"tag": "youtube",
+			"score": 0.2
+		},
+		{
+			"title": "CS:GO - How To Use The Buy Menu - Buy Menu Tutorial",
+			"url": "https://www.youtube.com/watch?v=uGXZzm7Vu_U",
+			"icon": "https://i.ytimg.com/vi/uGXZzm7Vu_U/hqdefault.jpg",
+			"createdAt": "2020-07-17T12:00:00.000Z",
+			"tag": "youtube",
+			"score": 0.1
+		},
+		{
+			"title": "CS:GO - How To Play With Bots - Bots Tutorial",
+			"url": "https://www.youtube.com/watch?v=zvCZKjVFg_Q",
+			"icon": "https://i.ytimg.com/vi/zvCZKjVFg_Q/hqdefault.jpg",
+			"createdAt": "2020-07-17T12:00:00.000Z",
+			"tag": "youtube",
+			"score": 0
+		},
+		{
+			"title": "Counter-Strike: Global Offensive",
+			"text": "Counter-Strike: Global Offensive (CS:GO) is a multiplayer first-person shooter video game developed by Valve and Hidden Path Entertainment. It is the fourth game in the Counter-Strike series and was released for Microsoft Windows, OS X, Xbox 360, and PlayStation 3 on August 21, 2012.",
+			"icon": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/CS-GO_Logo.svg/1200px-CS-GO_Logo.svg.png",
+			"createdAt": "Tue Aug 18 2020",
+			"tag": "wikipedia",
+			"score": 0.5
+		},
+		{
+			"title": "Gameplay",
+			"text": "The gameplay in Global Offensive is similar to that of previous games in the Counter-Strike series in the sense that it is an objective-based multiplayer first-person shooter. Each player joins either the Terrorist or Counter-Terrorist team and attempts to complete objectives or eliminate the enemy team.",
+			"icon": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/CS-GO_Logo.svg/1200px-CS-GO_Logo.svg.png",
+			"createdAt": "Mon Aug 17 2020",
+			"tag": "wikipedia",
+			"score": 0.7
+		},
+		{
+			"title": "Game Modes",
+			"text": "Global Offensive features five game modes for online play: Competitive, Casual, Arms Race, Demolition, and Deathmatch. All of these game modes are playable online or offline with bots. Competitive mode pits players against each other in two teams of five players in round-based matches.",
+			"icon": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/CS-GO_Logo.svg/1200px-CS-GO_Logo.svg.png",
+			"createdAt": "Sun Aug 16 2020",
+			"tag": "wikipedia",
+			"score": 0.9
+		},
+		{
+			"title": "Weapons and Equipment",
+			"text": "Global Offensive features new weapons and equipment not seen in previous installments, most notably the firebomb for each side (Molotovs for Terrorists and Incendiary Grenades for Counter-Terrorists). Both are capable of instantly killing all players in a small area, and they can be used to strategically alter the map's layout.",
+			"icon": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/CS-GO_Logo.svg/1200px-CS-GO_Logo.svg.png",
+			"createdAt": "Sat Aug 15 2020",
+			"tag": "wikipedia",
+			"score": 0.6
+		},
+		{
+			"title": "Maps",
+			"text": "Global Offensive features eight classic maps from previous versions of the game and seven brand new maps. All of the maps have different objectives and strategies that players must employ to win the round. Some of the classic maps include Dust, Dust2, Inferno, Nuke, and Train.",
+			"icon": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/CS-GO_Logo.svg/1200px-CS-GO_Logo.svg.png",
+			"createdAt": "Fri Aug 14 2020",
+			"tag": "wikipedia",
+			"score": 0.8
+		},
+		{
+			"title": "Game Modes",
+			"text": "Global Offensive features five game modes for online play: Competitive, Casual, Arms Race, Demolition, and Deathmatch. All of these game modes are playable online or offline with bots. Competitive mode pits players against each other in two teams of five players in round-based matches.",
+			"icon": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/CS-GO_Logo.svg/1200px-CS-GO_Logo.svg.png",
+			"createdAt": "Thu Aug 13 2020",
+			"tag": "wikipedia",
+			"score": 0.4
+		},
+		{
+			"title": "Weapons and Equipment",
+			"text": "Global Offensive features new weapons and equipment not seen in previous installments, most notably the firebomb for each side (Molotovs for Terrorists and Incendiary Grenades for Counter-Terrorists). Both are capable of instantly killing all players in a small area, and they can be used to strategically alter the map's layout.",
+			"icon": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/CS-GO_Logo.svg/1200px-CS-GO_Logo.svg.png",
+			"createdAt": "Wed Aug 12 2020",
+			"tag": "wikipedia",
+			"score": 0.2
+		},
+		{
+			"title": "Maps",
+			"text": "Global Offensive features eight classic maps from previous versions of the game and seven brand new maps. All of the maps have different objectives and strategies that players must employ to win the round. Some of the classic maps include Dust, Dust2, Inferno, Nuke, and Train.",
+			"icon": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/CS-GO_Logo.svg/1200px-CS-GO_Logo.svg.png",
+			"createdAt": "Tue Aug 11 2020",
+			"tag": "wikipedia",
+			"score": 0.3
+		},
+		{
+			"title": "Game Modes",
+			"text": "Global Offensive features five game modes for online play: Competitive, Casual, Arms Race, Demolition, and Deathmatch. All of these game modes are playable online or offline with bots. Competitive mode pits players against each other in two teams of five players in round-based matches.",
+			"icon": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/CS-GO_Logo.svg/1200px-CS-GO_Logo.svg.png",
+			"createdAt": "Mon Aug 10 2020",
+			"tag": "wikipedia",
+			"score": 0.1
+		},
+		{
+			"title": "Counter-Strike: Global Offensive",
+			"text": "Counter-Strike: Global Offensive (CS: GO) is a multiplayer first-person shooter video game developed by Valve and Hidden Path Entertainment. It is the fourth game in the Counter-Strike series and was released for Microsoft Windows, OS X, Xbox 360, and PlayStation 3 in August 2012, with the Linux version released in September 2014. The game pits two teams against each other: the Terrorists and the Counter-Terrorists. Both sides are tasked with eliminating the other while also completing separate objectives. The Terrorists, depending on the game mode, must either plant the bomb or defend the hostages, while the Counter-Terrorists must either prevent the bomb from being planted, defuse the bomb, or rescue the hostages.",
+			"icon": "https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Counter-Strike_Global_Offensive_Logo.svg/1200px-Counter-Strike_Global_Offensive_Logo.svg.png",
+			"createdAt": "2020-07-11T09:00:00.000Z",
+			"tag": "wikipedia",
+			"score": 0.5
+		},
+		{
+			"title": "Gameplay",
+			"text": "The gameplay in Global Offensive is similar to that of previous games in the Counter-Strike series in the sense that it is an objective-based multiplayer first-person shooter. The Terrorists must either plant the bomb or defend the hostages, while the Counter-Terrorists must either prevent the bomb from being planted, defuse the bomb, or rescue the hostages. At the end of each round, players are rewarded based on their individual performance with in-game currency to spend on more powerful weapons in subsequent rounds. Winning rounds rewards more money than losing does, and completing objectives such as killing enemy players gives cash bonuses. Uncooperative actions, such as killing teammates, will result in a penalty.",
+			"icon": "https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Counter-Strike_Global_Offensive_Logo.svg/1200px-Counter-Strike_Global_Offensive_Logo.svg.png",
+			"createdAt": "2020-07-08T09:00:00.000Z",
+			"tag": "wikipedia",
+			"score": 0.6
+		},
+		{
+			"title": "Game Modes",
+			"text": "Global Offensive features four game modes: Competitive, Casual, Arms Race, and Demolition. In Competitive mode, players are matched with other players of similar skill level. Arms Race is a gun-progression mode featuring instant respawning and is inspired by the “Gun Game” mod for other games in the series. Demolition mode is similar to the “Gun Game” mod, but the players are rewarded for each kill with a more powerful weapon, or grenade. Casual mode is a less intense version of the Competitive mode as players do not have to commit as much time or damage to their opponents.",
+			"icon": "https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Counter-Strike_Global_Offensive_Logo.svg/1200px-Counter-Strike_Global_Offensive_Logo.svg.png",
+			"createdAt": "2020-07-06T09:00:00.000Z",
+			"tag": "wikipedia",
+			"score": 0.7
+		},
+		{
+			"title": "Maps",
+			"text": "Global Offensive features 18 different maps, or locations. These maps consist of a variety of different terrains, such as urban areas, jungles, deserts, and snowy areas. The game also features a map editor, which allows players to create custom maps for use in the game. The game also features a variety of game modes, including the popular “Bomb Defusal” mode, which requires players to defuse a bomb planted by the Terrorists before it explodes.",
+			"icon": "https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Counter-Strike_Global_Offensive_Logo.svg/1200px-Counter-Strike_Global_Offensive_Logo.svg.png",
+			"createdAt": "2020-07-03T09:00:00.000Z",
+			"tag": "wikipedia",
+			"score": 0.8
+		},
+		{
+			"title": "Weapons",
+			"text": "Global Offensive features a variety of weapons, ranging from handguns and shotguns to submachine guns and sniper rifles. Players can also purchase grenades, such as flashbangs, smoke grenades, and Molotov cocktails, to help their team gain an advantage in the battlefield. Players can also customize their weapons with various skins and attachments, such as silencers and scopes.",
+			"icon": "https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Counter-Strike_Global_Offensive_Logo.svg/1200px-Counter-Strike_Global_Offensive_Logo.svg.png",
+			"createdAt": "2020-07-02T09:00:00.000Z",
+			"tag": "wikipedia",
+			"score": 0.9
+		},
+		{
+			"title": "Competitive Play",
+			"text": "Global Offensive features both online and offline competitive play. Online play takes place on dedicated Valve servers, while offline play is possible with bots. Players can join or create their own leagues and tournaments, or compete in matchmaking, which allows players of similar skill levels to be matched up against each other. The game also features a ranking system, which allows players to track their progress and compare it to other players.",
+			"icon": "https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Counter-Strike_Global_Offensive_Logo.svg/1200px-Counter-Strike_Global_Offensive_Logo.svg.png",
+			"createdAt": "2020-07-01T09:00:00.000Z",
+			"tag": "wikipedia",
+			"score": 0.95
+		},
+		{
+			"title": "Community",
+			"text": "Global Offensive has a large and active community. The game has a large number of active players, with over 11 million players playing the game each month. The game also has a large number of active tournaments and leagues, with major tournaments being held throughout the year. The game also has a large number of dedicated fans, with a large number of fan-made videos and websites devoted to the game.",
+			"icon": "https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Counter-Strike_Global_Offensive_Logo.svg/1200px-Counter-Strike_Global_Offensive_Logo.svg.png",
+			"createdAt": "2020-06-30T09:00:00.000Z",
+			"tag": "wikipedia",
+			"score": 1
+		},
+		{
+			"title": "Updates and Patches",
+			"text": "Valve regularly updates Global Offensive with new content, such as new maps, weapons, and game modes. The game also receives regular patches to fix bugs and balance the game. The game also features a variety of cosmetic items, which can be purchased with real-world money. These items are purely cosmetic and do not affect gameplay.",
+			"icon": "https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Counter-Strike_Global_Offensive_Logo.svg/1200px-Counter-Strike_Global_Offensive_Logo.svg.png",
+			"createdAt": "2020-06-27T09:00:00.000Z",
+			"tag": "wikipedia",
+			"score": 0.2
+		},
+		{
+			"title": "Cheating",
+			"text": "Cheating is a major issue in Global Offensive, with a large number of players using cheats to gain an advantage over their opponents. Valve has implemented a number of anti-cheat measures to combat cheating, such as VAC (Valve Anti-Cheat) and Overwatch. VAC is a system that detects cheats and bans players from the game, while Overwatch allows players to review suspicious players and ban them if necessary.",
+			"icon": "https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Counter-Strike_Global_Offensive_Logo.svg/1200px-Counter-Strike_Global_Offensive_Logo.svg.png",
+			"createdAt": "2020-06-26T09:00:00.000Z",
+			"tag": "wikipedia",
+			"score": 0.3
+		},
+		{
+			"title": "E-Sports",
+			"text": "Global Offensive is one of the most popular games in the world of e-sports, with a large number of tournaments and leagues being held throughout the year. These tournaments feature some of the best players in the world, and the prize pools for these tournaments can reach into the millions of dollars. Major tournaments are held throughout the year, with the largest being the annual Major tournament, which is hosted by Valve and features a prize pool of over $1 million.",
+			"icon": "https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Counter-Strike_Global_Offensive_Logo.svg/1200px-Counter-Strike_Global_Offensive_Logo.svg.png",
+			"createdAt": "2020-06-25T09:00:00.000Z",
+			"tag": "wikipedia",
+			"score": 0.4
+		},
+		{
+			"title": "Platforms",
+			"text": "Global Offensive is available on a variety of platforms, including Microsoft Windows, OS X, Xbox 360, and PlayStation 3. The game is also available on Linux, and can be played on the SteamOS operating system. The game is also available on mobile devices, with both iOS and Android versions being available.",
+			"icon": "https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Counter-Strike_Global_Offensive_Logo.svg/1200px-Counter-Strike_Global_Offensive_Logo.svg.png",
+			"createdAt": "2020-06-24T09:00:00.000Z",
+			"tag": "wikipedia",
+			"score": 0.5
+		}
+	]
+}

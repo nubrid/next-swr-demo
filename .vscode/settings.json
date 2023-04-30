@@ -1,0 +1,63 @@
+{
+	"css.validate": false,
+	"editor.bracketPairColorization.enabled": true,
+	"editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	// NOTE: https://stackoverflow.com/questions/61731587/vscode-prettier-doesnt-format-tsx-file
+	"[typescript]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
+	"[typescriptreact]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
+	"editor.formatOnPaste": true,
+	// "editor.formatOnSave": true,
+	"editor.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
+	"editor.fontLigatures": true,
+	"editor.fontSize": 13,
+	"editor.formatOnType": true,
+	"editor.glyphMargin": false,
+	"editor.guides.bracketPairs": true,
+	"editor.guides.indentation": true,
+	"editor.lineHeight": 25,
+	"editor.linkedEditing": true,
+	"editor.minimap.showSlider": "always",
+	"editor.renderControlCharacters": true,
+	"editor.renderWhitespace": "all",
+	"editor.tabSize": 2,
+	"editor.wordWrap": "on",
+	"explorer.fileNesting.enabled": true,
+	"explorer.incrementalNaming": "disabled",
+	"explorer.openEditors.visible": 0,
+	"files.eol": "\n",
+	"git.autofetch": true,
+	// NOTE: https://github.com/conventional-changelog/commitlint/tree/master/%40commitlint/config-conventional#header-max-length
+	"git.inputValidationLength": 100,
+	"git.inputValidationSubjectLength": 100,
+	"javascript.format.insertSpaceAfterFunctionKeywordForAnonymousFunctions": false,
+	"javascript.validate.enable": false,
+	"less.validate": false,
+	"rest-client.enableTelemetry": false,
+	"scss.validate": false,
+	"search.exclude": {
+		"**/node_modules": true
+	},
+	"stylelint.validate": ["css", "html", "less", "postcss", "scss"],
+	"terminal.integrated.autoReplies": {
+		"Terminate batch job (Y/N)?": "Y\r"
+	},
+	"terminal.integrated.smoothScrolling": true,
+	"terminal.integrated.tabs.enabled": true,
+	"todohighlight.keywords": [
+		{
+			"text": "NOTE:",
+			"color": "white",
+			"backgroundColor": "blue"
+		},
+		{
+			"text": "HACK:",
+			"color": "white",
+			"backgroundColor": "red"
+		}
+	],
+	"turboConsoleLog.quote": "'",
+	"workbench.activityBar.visible": false,
+	"workbench.editor.pinnedTabSizing": "compact",
+	"workbench.sideBar.location": "right"
+}

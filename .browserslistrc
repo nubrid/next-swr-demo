@@ -1,0 +1,15 @@
+[production]
+defaults or > 0.2% in my stats and supports es6 and not IE 11 and not Op_Mini all and not baidu < 7.13 and not kaios < 2.6
+last 2 Chrome major versions
+last 2 Edge major versions
+last 2 Firefox major versions
+last 2 Opera major versions
+last 2 Safari major versions
+
+[development]
+defaults or > 0.2% in my stats and supports es6 and not IE 11 and not Op_Mini all and not baidu < 7.13 and not kaios < 2.6
+last 2 Chrome versions
+last 2 Edge versions
+last 2 Firefox versions
+last 2 Opera versions
+last 2 Safari versions

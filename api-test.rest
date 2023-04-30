@@ -1,0 +1,12 @@
+http://localhost:3000/api/posts?limit=3&tag=youtube
+
+###
+http://localhost:3000/api/posts?limit=3&tag=wikipedia
+
+###
+POST http://localhost:3000/api/posts
+Content-Type: application/json
+
+{
+    "title": "Test Title I"
+}
